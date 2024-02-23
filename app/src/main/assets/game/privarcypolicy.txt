@@ -13,17 +13,13 @@
 
 <p>We use the information collected primarily to process the task for which you visited the game. Data collected is held in accordance with the Data Protection Act. All reasonable precautions are taken to prevent unauthorised access to this information. This safeguard may require you to provide additional forms of identity should you wish to obtain information about your account details.</p>
 
-<p><strong>Original Developer</strong></p>
-
-<p>This game is a proprietary code created by Gradle Code, Entity (JACOB SERVICES LLC), the distribution of this code  should respect and not change this part. Removing this part on the privacy is ILLEGAL, and JACOB SERVICES get all rights to report and suspend all collaboration with the distributer.</p>
-
 <p><strong>Disclosing Information</strong></p>
 
 <p>We do not disclose any personal information obtained about you from this game to third parties unless you permit us to do so by ticking the relevant boxes in registration or competition forms. We may also use the information to keep in contact with you and inform you of developments associated with us. You will be given the opportunity to remove yourself from any mailing list or similar device. If at any time in the future we should wish to disclose information collected on this website to any third party, it would only be with your knowledge and consent.&nbsp;</p>
 
 <p>We may from time to time provide information of a general nature to third parties - for example, the number of individuals visiting our game, but we will not use any information that could identify those individuals.&nbsp;</p>
 
-<p>In addition Dummy may work with third parties for the purpose of delivering targeted behavioural advertising to the Dummy game. Through the use of  anonymous information about your use of our game, will be used to provide more relevant adverts about services of interest to you.</p>
+<p>In addition WildCat Studio may work with third parties for the purpose of delivering targeted behavioural advertising to the WildCat Studio game. Through the use of  anonymous information about your use of our game, will be used to provide more relevant adverts about services of interest to you.</p>
 
 <p><strong>Changes to this Policy</strong></p>
 
